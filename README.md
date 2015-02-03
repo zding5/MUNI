@@ -5,5 +5,5 @@ How the site works locally is that you do:
 3) go to localhost:3000    
 
 Todo:
-1) Make the queue accepting files
-2) Get it online (on our muni site?)
+1) Make the queue accepting files    
+2) Get it online (on our muni site?)    
